@@ -19,3 +19,5 @@ for palabra in palabras:
 
 # Imprimir el resultado
 print("En la frase hay", contador_palabras, "palabras de longitud", longitud)
+
+#Ejercicio 8 modificado
