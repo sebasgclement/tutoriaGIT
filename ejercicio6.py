@@ -16,3 +16,5 @@ for caracter in palabra:
 
 # Imprimir el resultado
 print("La palabra contiene", contador_vocales, "vocales.")
+
+#comentario de prueba
